@@ -1,0 +1,13 @@
+{
+	"name": "reaper",
+	"description": "Reaper is an easy to use class with no dependencies allowing you to extract data from a form or other element.",
+	"authors": [
+		"Greg Burghardt <greg_burghardt@yahoo.com>"
+	],
+	"version": "1.0.0",
+	"license": "MIT",
+	"repository": { "type": "git", "url": "https://github.com/gburghardt/reaper.git" },
+	"main": [
+		"src/reaper.js"
+	]
+}
