@@ -106,6 +106,6 @@ There are three ways to download Reaper
 
 1. Clone this repository: `git clone https://github.com/gburghardt/reaper.git`
 
-2. [Download from GitHub](https://github.com/gburghardt/reaper/downloads/master.zip)
+2. [Download from GitHub](https://github.com/gburghardt/reaper/archive/master.zip)
 
 3. Install the Bower package: `bower install reaper`
