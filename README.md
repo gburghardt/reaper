@@ -56,10 +56,10 @@ var reaper = new Reaper();
 
 // Return a deeply nested object
 reaper.flat = false;
-```
 
 var element = document.getElementById("blog-post-form");
 var data = reaper.getData(element);
+```
 
 Now you'll get this data structure back:
 
